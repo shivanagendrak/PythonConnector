@@ -6,3 +6,4 @@ Steps:
 3. Download Python ( https://www.python.org/ )
 4. Install mysql.connector python library ( pip install mysql.connector)
 
+<img width="486" alt="pythonconnector" src="https://github.com/shivanagendrak/PythonConnector/assets/40945928/794b788a-524c-4fd1-947f-bf1293abc6ee">
